@@ -1,3 +1,3 @@
 # React-tutorial
 
-I made the rect tutoril app tic-tac-toe
+I made the rect tutorial app tic-tac-toe
